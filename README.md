@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @martin2421
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Programming and ethical hacking
 - 🌱 I’m currently learning Java, JavaScript, Python, Swift
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: martinatanaciojr@gmail.com
 
 <!---
