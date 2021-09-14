@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martin2421
-- 👀 I’m interested in Programming and ethical hacking
+- 👀 I’m interested in programming and ethical hacking
 - 🌱 I’m currently learning Java, JavaScript, Python, Swift
 - 📫 How to reach me: martinatanaciojr@gmail.com
 
